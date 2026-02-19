@@ -8,6 +8,7 @@ Este projeto foi criado como ferramenta de apoio para meus estudos em desenvolvi
 - Servir como consulta rápida
 
 → Estrutura
+
 Cada seção do código representa um conceito específico estudado
 
 
